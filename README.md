@@ -21,12 +21,6 @@
  </div>
  
  ##
- 
- <div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiolima&langs_count=10"</>
- </div>
-
-##
 
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudioLima&theme=vue" />
