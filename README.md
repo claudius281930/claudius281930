@@ -1,7 +1,7 @@
  <h1>🐱‍🏍Claudio Lima<h1><p> Olá pessoa. Tudo bem? Seja bem vinda há uma breve descrição visual sobre minhas habilidades momentanêas.🤖</p>
  
  <div>
- <img height ="" src="https://github-readme-stats.vercel.app/api?username=claudiolima&show_icons=true&theme=radical"</>
+ <img src="https://github-readme-stats.vercel.app/api?username=claudiolima&show_icons=true&theme=radical"</>
  </div>
  
  ##
@@ -23,7 +23,7 @@
  ##
  
  <div>
- <img width ="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiolima&langs_count=10"</>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiolima&langs_count=10"</>
  </div>
 
 ##
