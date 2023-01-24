@@ -1,4 +1,4 @@
- ## 🐱‍🏍Claudio Lima
+ <h1>🐱‍🏍Claudio Lima<h1>
  
  <div>
  <img height ="" src="https://github-readme-stats.vercel.app/api?username=claudiolima&show_icons=true&theme=radical"</>
@@ -7,7 +7,7 @@
  ##
  
  <div>
- <h1>Tecnologias conhecidas</h1>
+ <h3>Tecnologias conhecidas</h3>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
