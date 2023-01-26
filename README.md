@@ -1,7 +1,7 @@
  <h1>🐱‍🏍Claudio Lima<h1><p> Olá pessoa. Tudo bem? Seja bem vinda há uma breve descrição visual sobre minhas habilidades momentanêas.🤖</p>
  
  <div>
- <img src="https://github-readme-stats.vercel.app/api?username=claudiolima&show_icons=true&theme=radical"</>
+ <img src="https://github-readme-stats.vercel.app/api?username=claudiolima&show_icons=true&theme=radical"</> 
  </div>
  
  ##
@@ -17,7 +17,9 @@
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+ <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+ <img src= "https://img.shields.io/badge/workbench-F27623?style=for-the-badge&logo=workbench&logoColor=white" />
  </div>
  
  ##
