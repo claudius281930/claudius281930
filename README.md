@@ -1,4 +1,4 @@
- <h1>🐱‍🏍Claudio Lima<h1><p> Olá pessoa. Tudo bem? Seja bem vinda há uma breve descrição visual sobre minhas habilidades momentanêas.🤖</p>
+ <h1>🐱‍Olá, sou Claudio Lima<h1><p> Olá pessoa. Tudo bem? Seja bem vinda há uma breve descrição visual sobre minhas habilidades momentanêas.🤖</p>
  
  <div>
  <img src="https://github-readme-stats.vercel.app/api?username=claudius281930&show_icons=true&theme=radical"</> 
