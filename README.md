@@ -3,8 +3,8 @@
  <p>Seja bem vindo(a) há uma breve descrição sobre minhas habilidades momentanêas.🤖</p>
  
  <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=claudius281930&show_icons=true&theme=radical"</> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudius281930&layout=compact" height=195px</> 
+  <img src="https://github-readme-stats.vercel.app/api?username=claudius281930&show_icons=true&theme=radical" height=150px</> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudius281930&layout=compact" height=150px</> 
  </div>
 
  ##
