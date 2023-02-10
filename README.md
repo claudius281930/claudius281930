@@ -1,7 +1,7 @@
- <h1> 🗽Olá, sou Claudio Lima<h1><p>Tudo bem? Seja bem vindo(a) há uma breve descrição visual sobre minhas habilidades momentanêas.🤖</p>
+ <h1>🗽Olá, sou Claudio Lima<h1><p>Tudo bem? Seja bem vindo(a) há uma breve descrição visual sobre minhas habilidades momentanêas.🤖</p>
  
  <div>
- <img src="https://github-readme-stats.vercel.app/api?username=claudius281930&show_icons=true&theme=radical"</> 
+  <img src="https://github-readme-stats.vercel.app/api?username=claudius281930&show_icons=true&theme=radical"</> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudius281930&layout=compact" height=195px</> 
  </div>
 
@@ -26,5 +26,5 @@
  ##
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudius281930&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudius281930&theme=vue" width=1000px/>
 </div>
