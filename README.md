@@ -1,6 +1,5 @@
  <h1>🗽Olá, sou Claudio Lima.<h1>
- <p>Tudo bem? </p>
- <p>Seja bem vindo(a) há uma breve descrição sobre minhas habilidades momentanêas.🤖</p>
+ <p>Seja bem vindo(a).🤖</p>
  
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=claudius281930&show_icons=true&theme=radical" height=170px</> 
