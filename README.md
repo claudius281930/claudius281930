@@ -1,6 +1,6 @@
  <h1>🗽Olá, tudo bem?<h1>
   <h2>Sou José Lima.<h2>
- <p>É com imenso prazer que lhes do as boas vindas ao meu Ateliê🤖</p>
+ <p>É com imenso prazer que lhes dou as boas vindas ao meu Ateliê🤖</p>
    <p>Falando uma pouco sobre mim: minha vida até agora foi vivida em Recife-PE, Brasil. Sou casado e pai de três, lindas, futuras gerações. Desde cedo aprendi a gosta de Tecnológia devido aos jogos eletrônicos, que na minha época eram de cartuchos(😁). Hoje possuo habilidades, que me permitem ver com outros olhos este fantástico mundo dos códigos.</p>
  
  <div>
