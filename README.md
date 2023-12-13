@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src= "https://img.shields.io/badge/Workbench-F27623?style=for-the-badge&logo=workbench&logoColor=white" />
   
-  <h3>Tecnologias aprendendo</h3>
-  <img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nest&logoColor=white" />
+  <h3>Tecnologias aprendendo...</h3>
+  <img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nest-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Next-E0234E?style=for-the-badge&logo=next&logoColor=white" />
   
  <h3>Tecnologias a aprender</h3>
