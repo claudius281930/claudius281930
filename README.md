@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Next.js-E0234E?style=for-the-badge&logo=nextjs&logoColor=white" />
   <h3>Tecnologias a aprender</h3>
  <img src="https://img.shields.io/badge/Jest.js-005C84?style=for-the-badge&logo=jestjsl&logoColor=white" />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
  </div>
  
  ##
