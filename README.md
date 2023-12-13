@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Xampp-100000?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src= "https://img.shields.io/badge/Workbench-100000?style=for-the-badge&logo=workbench&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=white" />
   
   <h3>Tecnologias aprendendo...</h3>
   <img src="https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=typescript&logoColor=white" />
