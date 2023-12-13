@@ -24,6 +24,7 @@
   <img src= "https://img.shields.io/badge/Workbench-100000?style=for-the-badge&logo=workbench&logoColor=white" />
   
   <h3>Tecnologias aprendendo...</h3>
+  <img src="https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Nest-100000?style=for-the-badge&logo=nest&logoColor=white" />
     
  <h3>Tecnologias a aprender</h3>
