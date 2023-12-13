@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Sequelize-100000?style=for-the-badge&logo=Sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node-100000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=express&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Xampp-100000?style=for-the-badge&logo=xampp&logoColor=white" />
