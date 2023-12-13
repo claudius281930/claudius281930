@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next&logoColor=white" />
   
  <h3>Tecnologias a aprender</h3>
- <img src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white" />
+ <img src="https://img.shields.io/badge/Jest.js-000000?style=for-the-badge&logo=jest&logoColor=white" />
  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
  <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" />
  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
