@@ -33,9 +33,9 @@
  <img src="https://img.shields.io/badge/Bun-100000?style=for-the-badge&logo=bun&logoColor=white" />
  <img src="https://img.shields.io/badge/D3-100000?style=for-the-badge&logo=d3&logoColor=white" />
  <img src="https://img.shields.io/badge/Lodash-100000?style=for-the-badge&logo=lodash&logoColor=white" />
- <img src="https://img.shields.io/badge/Algolia-100000?style=for-the-badge&logo=algolia&logoColor=white" />
+ <img src="https://img.shields.io/badge/AlgoliaPlaces-100000?style=for-the-badge&logo=algoliaplaces&logoColor=white" />
  </div>
- Algolia Places
+ 
  ##
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudius281930&theme=vue" width=1000px/>
