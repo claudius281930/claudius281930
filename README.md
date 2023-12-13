@@ -25,8 +25,7 @@
   
   <h3>Tecnologias aprendendo...</h3>
   <img src="https://img.shields.io/badge/Nest-100000?style=for-the-badge&logo=nest-js&logoColor=white" />
-  [<img src="https://img.shields.io/badge/Next-10000?style=for-the-badge&logo=next&logoColor=white" />](url)
-  
+    
  <h3>Tecnologias a aprender</h3>
  <img src="https://img.shields.io/badge/Jest-100000?style=for-the-badge&logo=jest&logoColor=white" />
  <img src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white" />
