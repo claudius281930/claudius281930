@@ -13,7 +13,7 @@
   <h3>Tecnologias aprendidas</h3>
   <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css3&logoColor=0561a5" />
-  <img src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=ef9c00" />
+  <img src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=ef9c01" />
   <img src="https://img.shields.io/badge/Sequelize-100000?style=for-the-badge&logo=Sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node-100000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
