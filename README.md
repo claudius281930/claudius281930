@@ -31,11 +31,11 @@
  <img src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white" />
  <img src="https://img.shields.io/badge/Deno-100000?style=for-the-badge&logo=deno&logoColor=white" />
  <img src="https://img.shields.io/badge/Bun-100000?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/D3-100000?style=for-the-badge&logo=d3&logoColor=white" />
+ <img src="https://img.shields.io/badge/D3-100000?style=for-the-badge&logo=d3&logoColor=white" />
+ <img src="https://img.shields.io/badge/Underscore-100000?style=for-the-badge&logo=underscore&logoColor=white" />
  </div>
  
  ##
-
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudius281930&theme=vue" width=1000px/>
 </div>
