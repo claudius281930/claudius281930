@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/Deno-100000?style=for-the-badge&logo=deno&logoColor=white" />
  <img src="https://img.shields.io/badge/Bun-100000?style=for-the-badge&logo=bun&logoColor=white" />
  <img src="https://img.shields.io/badge/D3-100000?style=for-the-badge&logo=d3&logoColor=white" />
- <img src="https://img.shields.io/badge/Underscore-100000?style=for-the-badge&logo=underscore&logoColor=white" />
+ <img src="https://img.shields.io/badge/Lodash-100000?style=for-the-badge&logo=lodash&logoColor=white" />
  </div>
  
  ##
