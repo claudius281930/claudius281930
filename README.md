@@ -11,7 +11,7 @@
  
  <div>
   <h3>Tecnologias aprendidas</h3>
-  <img src="https://img.shields.io/badge/JavaScript-111116?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-100000?style=for-the-badge&logo=Sequelize&logoColor=white" />
@@ -31,6 +31,7 @@
  <img src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white" />
  <img src="https://img.shields.io/badge/Deno-100000?style=for-the-badge&logo=deno&logoColor=white" />
  <img src="https://img.shields.io/badge/Bun-100000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/D3-100000?style=for-the-badge&logo=d3&logoColor=white" />
  </div>
  
  ##
