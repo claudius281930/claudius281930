@@ -8,7 +8,7 @@
  </div>
  
  <div>
-  <h3>Tecnologias aprendidas</h3>
+  <h5>Tecnologias aprendidas</h5>
   <img src="https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=typescript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,12 +23,12 @@
   <img src= "https://img.shields.io/badge/Workbench-100000?style=for-the-badge&logo=workbench&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=white" />
   
-  <h3>Tecnologias aprendendo...</h3>
+  <h5>Tecnologias aprendendo...</h5>
  
   <img src="https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Next-100000?style=for-the-badge&logo=next&logoColor=white" />
     
- <h3>Tecnologias a aprender</h3>
+ <h5>Tecnologias a aprender</h5>
  <img src="https://img.shields.io/badge/Vue.js-100000?style=for-the-badge&logo=vue.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Jest-100000?style=for-the-badge&logo=jest&logoColor=white" />
  <img src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white" />
