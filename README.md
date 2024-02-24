@@ -25,6 +25,7 @@
   <h3>Tecnologias aprendendo...</h3>
   <img src="https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Nest-100000?style=for-the-badge&logo=nest&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white" />
     
  <h3>Tecnologias a aprender</h3>
  <img src="https://img.shields.io/badge/Vue.js-100000?style=for-the-badge&logo=vue.js&logoColor=white" />
