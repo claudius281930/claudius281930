@@ -9,6 +9,7 @@
  
  <div>
   <h3>Tecnologias aprendidas</h3>
+  <img src="https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=typescript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,8 +24,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=white" />
   
   <h3>Tecnologias aprendendo...</h3>
-  <img src="https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=typescript&logoColor=white" />
-  [<img src="https://img.shields.io/badge/Nest-100000?style=for-the-badge&logo=nest&logoColor=white" />](url)
+ 
   <img src="https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Next-100000?style=for-the-badge&logo=next&logoColor=white" />
     
