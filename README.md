@@ -28,12 +28,12 @@
  
   <img src="https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Next-100000?style=for-the-badge&logo=next&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deno-100000?style=for-the-badge&logo=deno&logoColor=white" />
     
  <h5>Tecnologias a aprender</h5>
  <img src="https://img.shields.io/badge/Vue.js-100000?style=for-the-badge&logo=vue.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Jest-100000?style=for-the-badge&logo=jest&logoColor=white" />
  <img src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white" />
- <img src="https://img.shields.io/badge/Deno-100000?style=for-the-badge&logo=deno&logoColor=white" />
  <img src="https://img.shields.io/badge/Bun-100000?style=for-the-badge&logo=bun&logoColor=white" />
  <img src="https://img.shields.io/badge/D3-100000?style=for-the-badge&logo=d3&logoColor=white" />
  <img src="https://img.shields.io/badge/Lodash-100000?style=for-the-badge&logo=lodash&logoColor=white" />
@@ -41,7 +41,6 @@
  <img src="https://img.shields.io/badge/Tailwind-100000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
  </div>
  
- ##
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudius281930&theme=vue" width=1000px/>
 </div>
