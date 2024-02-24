@@ -10,6 +10,7 @@
  
  <div>
   <h5>Tecnologias aprendidas</h5>
+  <img src="https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=vite&logoColor=white" /> 
   <img src="https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=typescript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css3&logoColor=white" />
