@@ -1,6 +1,6 @@
- <h1>🗽Olá, tudo bem?<h1> <h2>Sou José Lima.<h2>
- <p>É com imenso prazer que lhes dou as boas vindas ao meu Ateliê🤖</p>
-   <p>Falando uma pouco sobre mim: minha vida até agora foi vivida em Recife-PE, Brasil. Sou casado e pai de três, lindas, futuras gerações. Desde cedo aprendi a gosta de Tecnológia devido aos jogos eletrônicos, que na minha época eram de cartuchos(😁). Hoje possuo habilidades, que me permitem ver com outros olhos este fantástico mundo dos códigos.</p>
+ <h1>Olá, tudo bem?<h1> <h2>Sou José Lima.<h2>
+ <p>É com imenso prazer que lhe dou as boas-vindas ao meu Ateliê 🤖</p>
+   <p>Para compartilhar um pouco sobre mim: vivi toda minha vida em Pernambuco, Brasil, sou casado e pai de três futuras gerações encantadoras. Desde cedo, desenvolvi um interesse pela tecnologia através dos jogos eletrônicos, mesmo na época dos cartuchos 😁. Hoje, minhas habilidades me permitem explorar este fascinante mundo dos códigos com uma perspectiva única.</p>
  
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=claudius281930&show_icons=true&theme=radical" height=170px</> 
