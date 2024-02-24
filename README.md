@@ -6,8 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=claudius281930&show_icons=true&theme=radical" height=170px</> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudius281930&layout=compact" height=170px</> 
  </div>
-
- ##
  
  <div>
   <h3>Tecnologias aprendidas</h3>
