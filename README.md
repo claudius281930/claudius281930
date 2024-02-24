@@ -1,4 +1,4 @@
- <h1>Olá, tudo bem?<h1><p>Sou José Lima.<p>
+ <h1>Olá, tudo bem?<h1><h4>Sou José Lima.<h4>
  <p>É com imenso prazer que lhe dou as boas-vindas ao meu Ateliê 🤖</p>
    <p>Para compartilhar um pouco sobre mim: vivi toda minha vida em Pernambuco, Brasil, sou casado e pai de três futuras gerações encantadoras. Desde cedo, desenvolvi um interesse pela tecnologia através dos jogos eletrônicos, mesmo na época dos cartuchos 😁. Hoje, minhas habilidades me permitem explorar este fascinante mundo dos códigos com uma perspectiva única.</p>
  
