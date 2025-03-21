@@ -1,7 +1,7 @@
  <h1>Olá, tudo bem?<h1>
   <h3>Sou José Lima.<h3>
- <p>É com imenso prazer que lhe dou as boas-vindas</p>
- <p>Compartilhando um pouco sobre mim: desenvolvi um interesse pela tecnologia através dos jogos eletrônicos nos anos 90.</p>
+ <p>Seja bem-vindo</p>
+ <p></p>
  
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=claudius281930&show_icons=true&theme=radical" height=170px</> 
