@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src= "https://img.shields.io/badge/Workbench-100000?style=for-the-badge&logo=workbench&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node-100000?style=for-the-badge&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-100000?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nestjs-100000?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-100000?style=for-the-badge&logo=jest&logoColor=white" />
   
   <h5>Tecnologias: aprendendo...</h5>
