@@ -42,7 +42,6 @@
  <img src="https://img.shields.io/badge/Algolia-100000?style=for-the-badge&logo=algolia&logoColor=white" />
  <img src="https://img.shields.io/badge/Tailwind-100000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
  <img src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white" />
- [<img src="https://img.shields.io/badge/Assembly-100000?style=for-the-badge&logo=assembly&logoColor=white" />](url)
  </div>
  
 <div>
